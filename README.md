@@ -1,1 +1,1 @@
-# f-971
+# f-971 is classical "DANMAKU" shooting game
